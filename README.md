@@ -1,53 +1,53 @@
 # $ programmer --help
 
-Добро пожаловать в систему программиста.
+[🇺🇸 English] | [[🇷🇺 Русский](README_RU.md)]
 
-Этот профиль — набор программ, решающих (или создающих) типичные проблемы программиста.  
-Каждый репозиторий — отдельная утилита со своим поведением, логикой и уровнем адекватности.
+Welcome to the programmer's system.
 
-Некоторые программы помогут тебе.  
-Некоторые будут врать.  
-Некоторые вообще не должны существовать.  
-Некоторые уже запущены и их нельзя остановить.
+This profile is a collection of programs that solve (or create) typical programmer problems.  
+Each repository is a separate utility with its own behavior, logic, and level of adequacy.
 
----
-
-## Доступные программы
-
-| Программа            | Язык     | Статус       | Описание               |
-|----------------------|----------|--------------|------------------------|
-| TalkerWithAGirl      | Python   | experimental | Инструмент для общения |
-| FixAllElectronics    | C++      | unstable     | Чинит любые устройства |
+Some programs will help you.  
+Some will lie.  
+Some shouldn't exist at all.  
+Some are already running and cannot be stopped.
 
 ---
 
-## Статусы
+## Available Programs
 
-- **stable** — работает (подозрительно хорошо)  
-- **experimental** — может сломать что угодно  
-- **unstable** — уже сломало  
-- **deprecated** — лучше не трогать  
-- **cursed** — неизвестно, зачем существует  
-- **do not run** — серьёзно  
+| Program | Language | Status | Description |
+| :--- | :--- | :--- | :--- |
+| [TalkerWithAGirl](https://github.com/F14sko/import_TalkerWithAGirl) | Python | experimental | AI Auto-responder for small talk |
+| [FixAllElectronics](https://github.com/F14sko/include_FixAllElectronics) | C++ | unstable | "Fixes" any device on Earth |
 
 ---
 
-## Использование
+## Status Definitions
 
-Выбери программу и запусти её на свой страх и риск.  
-Если программа не запускается — значит, она уже работает.
-
----
-
-## Заметки
-
-Результат не гарантирован  
-Возможны побочные эффекты  
-Реальность может отличаться от ожиданий  
-Поддержка пользователей не предусмотрена  
+* **stable** — works (suspiciously well)
+* **experimental** — might break anything
+* **unstable** — already broke something
+* **deprecated** — better not touch it
+* **cursed** — nobody knows why it exists
+* **do not run** — seriously, don't
 
 ---
 
-Система находится в активной разработке.
+## Usage
 
-Поведение программ может быть непредсказуемым.
+Choose a program and run it at your own risk.  
+If the program doesn't start, it means it's already running.
+
+---
+
+## Notes
+
+* Result not guaranteed
+* Side effects are possible
+* Reality may differ from expectations
+* No user support provided
+
+---
+
+*System is under active development. Program behavior may be unpredictable.*
