@@ -1,6 +1,6 @@
 # $ programmer --help
 
-[[🇺🇸 English](README.md)] | [🇷🇺 Русский]
+[<kbd>🇺🇸 English</kbd>](README.md) | [<kbd>🇷🇺 Русский</kbd>](README_RU.md)
 
 Добро пожаловать в систему программиста.
 
