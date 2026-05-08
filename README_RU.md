@@ -18,8 +18,8 @@
 
 | Программа | Язык | Статус | Описание |
 | :--- | :--- | :--- | :--- |
-| [TalkerWithAGirl](https://github.com/your-username/import-TalkerWithAGirl) | Python | experimental | Инструмент для общения (ИИ) |
-| [FixAllElectronics](https://github.com/your-username/include_FixAllElectronics) | C++ | unstable | «Чинит» любые устройства |
+| [TalkerWithAGirl](https://github.com/F14sko/import_TalkerWithAGirl) | Python | experimental | Инструмент для общения (ИИ) |
+| [FixAllElectronics](https://github.com/F14sko/include_FixAllElectronics) | C++ | unstable | «Чинит» любые устройства |
 
 ---
 
